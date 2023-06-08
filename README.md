@@ -3,7 +3,7 @@
 As a part of this survey, I have done a deep exploratory data analysis on the data which is provided. 
 Survey was conducted among data professionals from different countries. 
 Data professionals like data analyst, data architects, data engineers, data scientists, data base developers, students and some other categories were participated in this survey.
-A total 630 surveys where taken
+A total 630 surveys takers where participated.
 
 These are the major insights from my analysis.
 1) The age group of survey takers where averaged to 29 years old.
